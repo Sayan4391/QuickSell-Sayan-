@@ -29,12 +29,15 @@ This project is a **React-based Kanban-board** application developed as part of 
 pictures:
 
 Display state:
+
 ![image](https://github.com/user-attachments/assets/a546b050-87bc-4343-9594-77736a1391e2)
 
 State based on display. - Grouping by user is selected.:
+
 ![image](https://github.com/user-attachments/assets/3fd6f564-a1be-4944-b8f3-5a32ee04c91d)
 
 Grouping by priority is selected:
+
 ![image](https://github.com/user-attachments/assets/57e0708e-3404-4ae6-8c0a-91d7fe6731d8)
 
 Card:
