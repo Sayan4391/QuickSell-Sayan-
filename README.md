@@ -21,21 +21,26 @@ This project is a **React-based Kanban-board** application developed as part of 
 
 1. Clone the repository:
 
-  cpp
+```  cpp
    git clone https://github.com/your-repo/Quicksell-Frontend-assignment.git
    cd Quicksell-Frontend-assignment
+```
    
 pictures:
 
 Display state:
-![{F70B44AB-7874-4118-80E2-E8F5878FACAD}](https://github.com/user-attachments/assets/150c2833-1464-4903-ad65-be72afb7e4ca)
+![image](https://github.com/user-attachments/assets/a546b050-87bc-4343-9594-77736a1391e2)
+
 State based on display. - Grouping by user is selected.:
-![{30BB51FC-4193-4A66-9244-BB3E6F85BAAE}](https://github.com/user-attachments/assets/27c9b6c0-2b5b-49ea-a94b-40a77810274e)
+![image](https://github.com/user-attachments/assets/3fd6f564-a1be-4944-b8f3-5a32ee04c91d)
+
 Grouping by priority is selected:
-![{4C9736D1-EFBA-4674-BA67-5EF717078A8E}](https://github.com/user-attachments/assets/5cdef8d5-1297-4be7-91a3-62812b80cc2c)
+![image](https://github.com/user-attachments/assets/57e0708e-3404-4ae6-8c0a-91d7fe6731d8)
+
 Card:
 
-![{1A6BA42E-34FB-4CA4-A9CD-FF071DF08658}](https://github.com/user-attachments/assets/bd0e82c2-97af-4193-962c-a69c1368100d)
+![image](https://github.com/user-attachments/assets/393900c3-8f60-43b3-815b-0ac832a4eecc)
+
 
 
 
